@@ -79,11 +79,15 @@ Seja criativo!
 2. Adicione o relatório `HTML` no seu fork.
 3. No Moodle, submeta apenas a URL do seu `fork`.
 
-Responda às questões abaixo diretamente neste arquivo `README.md` do seu fork:
 
-1. Repositório selecionado: <URL_DO_REPOSITORIO_SELECIONADO_AQUI>
-2. Gráfico selecionado: <IMAGEM_DO_GRAFICO_SELECIONADO_AQUI>
-3. Explicação: <EXPLICACAO_AQUI>
+### 1. Repositório selecionado
+https://github.com/tensorflow/tensorflow
+
+### 2. Gráfico selecionado
+![LOC-2015-2025.jpeg](gitevo-reports/LOC-2015-2025.jpeg)
+
+### 3. Explicação
+O gráfico mostra que entre 2015 e 2016 houve pouca evolução e até redução de código, reflexo da fase inicial do projeto. De 2017 a 2019 ocorre um forte crescimento, ultrapassando 1 milhão de linhas, devido à rápida expansão de funcionalidades. Em 2020 há uma queda significativa, explicada pela refatoração do TensorFlow 2.0, que simplificou APIs e removeu código legado. A partir de 2021 o crescimento se estabiliza em torno de 1,2 milhão de linhas, indicando maturidade do projeto. Essa trajetória segue boas práticas: expansão inicial, refatoração para reduzir complexidade e estabilização em longo prazo.
 
 
 
