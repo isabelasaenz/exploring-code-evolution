@@ -81,9 +81,22 @@ Seja criativo!
 
 Responda às questões abaixo diretamente neste arquivo `README.md` do seu fork:
 
-1. Repositório selecionado: <URL_DO_REPOSITORIO_SELECIONADO_AQUI>
-2. Gráfico selecionado: <IMAGEM_DO_GRAFICO_SELECIONADO_AQUI>
-3. Explicação: <EXPLICACAO_AQUI>
+1. Repositório selecionado: https://github.com/fivetran/great_expectations
+2. Gráfico selecionado:
+<img width="680" height="344" alt="image" src="https://github.com/user-attachments/assets/8206afd1-37e4-41dd-afd2-a07a2cd332f9" />
+
+3. Explicação:
+O gráfico de LOC mostra um crescimento acelerado até 2023 (pico de 435 mil linhas), seguido de uma queda de ~29% até 2025 (310 mil linhas), voltando a crescer levemente em 2026.
+
+O projeto, que é uma biblioteca de validação de qualidade de dados, passou por uma reescrita massiva com o lançamento do GX Core 1.0, cujo objetivo explícito era simplificar a API e remover código legado acumulado durante os anos de crescimento monolítico (2021–2023), período em que a empresa também expandiu para a plataforma SaaS GX Cloud.
+
+Essa interpretação é confirmada por outros gráficos:
+- LOC médio por arquivo caiu de 322 (2022) para 196 (2026): arquivos menores e mais modulares.
+- Tamanho médio de funções e classes caiu ~40%: código mais legível e testável.
+- Funções tipadas cresceram 6,3x, indicando amadurecimento do código.
+
+
+
 
 
 
